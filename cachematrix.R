@@ -1,11 +1,7 @@
 # GENERAL COMMENT
-#The purpose of these functions is to store some
-#data on cache in order to use them instead of estimate
-#them everytime that the same data is needed.
-
-#In this case the functions have to find the inverse
-#of a matrix.We assume that every matrix  provided
-#will be invertible.
+#The purpose of these functions is to store some data on cache in order to use them instead of estimate
+#them everytime that the same data is needed.In this case the functions have to find the inverse
+#of a matrix.We assume that every matrix  provided will be invertible.
 
 #MAKECACHEMATRIX COMMENT
 #This function stores a list of four functions.When we
